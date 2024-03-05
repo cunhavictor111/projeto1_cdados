@@ -12,8 +12,8 @@
 - 
 
 * Referências:
-- A practical explanation of a Naive Bayes classifier. Disponível em: <https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/>.
-- RASCHKA, S. Naive Bayes and Text Classification I Introduction and Theory. [s.l: s.n.]. Disponível em: <https://arxiv.org/pdf/1410.5329.pdf>.
+	- A practical explanation of a Naive Bayes classifier. Disponível em: <https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/>.
+	- RASCHKA, S. Naive Bayes and Text Classification I Introduction and Theory. [s.l: s.n.]. Disponível em: <https://arxiv.org/pdf/1410.5329.pdf>.
 
 
 <center>
