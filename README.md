@@ -9,7 +9,7 @@
 	- Construimos os cálculos das probabilidades com o auxílio do Classificador Naive - Bayes.
 
 * Nossa base de dados inicial: 
-- 
+	- 
 
 * Referências:
 	- A practical explanation of a Naive Bayes classifier. Disponível em: <https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/>.
