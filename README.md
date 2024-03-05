@@ -1,6 +1,6 @@
 ## Projeto 1 - Ciência dos Dados
 * Descrição:
-	- Esse projeto foi criado para a matéria de Ciência de Dados da faculdade INSPER, utilizando linguagem Python, junto a biblioteca Pandas. Foi desenvolvido por Láisa Camilly de Oliveira, Lara Vasconcelos, João Lucas Brasileiro, e Victor Cunha.
+	- Esse projeto foi criado para a matéria de Ciência de Dados da faculdade INSPER, utilizando linguagem Python, junto a biblioteca Pandas. Foi desenvolvido por Láisa Camilly de Oliveira, Lara Christine Melo Vasconcelos, João Lucas Brasileiro, e Victor de Almeida Cunha.
 
 * Objetivo:
 	-  Criação da base de dados.
